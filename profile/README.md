@@ -17,4 +17,4 @@ These are public mirrors of our monorepo, all MIT licensed. Issues and pull requ
 
 ## Links
 
-[yolo.studio](https://yolo.studio) · [Docs](https://docs.yolo.studio) · [info@yololabs.ai](mailto:info@yololabs.ai)
+[yolo.studio](https://yolo.studio) · [Docs](https://docs.yolo.studio) · [hello@yololabs.ai](mailto:hello@yololabs.ai)
